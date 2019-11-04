@@ -1,0 +1,20 @@
+#time{  text-align: center;
+        margin-top: 200px;
+        margin-left: 500px;
+        line-height: 200px;
+        font-size: 40px;
+        font-family: Orbitron;
+        background-color: black;
+        height: 200px;
+        width: 400px;
+        font-weight: 900;
+        padding: 10px;
+        border-radius: 20px;
+           }
+
+#time1{width: 100%;}
+           #format{width: 76%;margin-top: -150px;margin-right:200px;text-align: right;font-size: 25px;letter-spacing: 5px }
+
+
+
+           
